@@ -1,0 +1,80 @@
+{x},{y} 위치의 상태를 '{status_kr}'로 바꿔줘
+{x},{y} 지점을 '{status_kr}' 상태로 변경해
+{x},{y} 위치의 교통 상태를 '{status_kr}'으로 설정해줘
+{x},{y}에 '{status_kr}' 상황을 적용해줘
+좌표 {x},{y}를 '{status_kr}'으로 갱신해줘
+{x},{y}에서 교통상황을 '{status_kr}'로 반영해
+교통 흐름을 {x},{y}에 '{status_kr}'로 조정해줘
+{x},{y}는 '{status_kr}' 상태니까 반영해
+이동 경로 {x},{y} 지점의 상태를 '{status_kr}'로 바꿔
+{x},{y} 위치가 '{status_kr}' 상태야. 업데이트해줘
+지금 {x},{y} 쪽은 '{status_kr}' 상태야. 반영해줘
+좌표 {x},{y}의 교통상황을 '{status_kr}'로 입력해줘
+{x},{y}에서 '{status_kr}' 상황 처리 부탁해
+{x},{y} 도로의 상태를 '{status_kr}'로 변경해줘
+{x},{y} 구간에 '{status_kr}' 상태를 적용해줘
+교통 제어가 필요해. {x},{y}는 '{status_kr}' 상태로 지정해줘
+{x},{y} 방향은 '{status_kr}' 상태야. 반영하자
+{x},{y} 쪽은 '{status_kr}'으로 설정하는 게 좋아
+{x},{y} 지역을 '{status_kr}'로 바꿔야 해
+'{status_kr}' 상태를 {x},{y}에 적용해줘
+{x},{y}는 이제 '{status_kr}' 상태로 지정돼야 해
+현재 {x},{y} 위치에 '{status_kr}' 상태를 입력해줘
+{x},{y}에 대한 교통 상태는 '{status_kr}'로 변경이 필요해
+{x},{y} 교차로를 '{status_kr}' 상태로 설정해줘
+{x},{y} 도로를 '{status_kr}'로 업데이트해줘
+좌표 {x},{y}에 '{status_kr}' 교통 상태를 반영해줘
+지금 {x},{y}는 '{status_kr}' 상황이야. 반영해줘
+교통 정보에 따르면 {x},{y}는 '{status_kr}' 상태야
+좌표 {x},{y}를 '{status_kr}' 상태로 기록해줘
+내가 확인한 {x},{y} 위치는 '{status_kr}' 상태야
+{x},{y}에서 교통 흐름이 '{status_kr}' 상태로 보여
+교통 흐름 변경 요청이 있어. {x},{y}는 '{status_kr}' 상태야
+{x},{y}에 대해 '{status_kr}' 상태를 시스템에 반영해줘
+{x},{y}은 현재 '{status_kr}' 상태로 보여. 적용해줘
+{x},{y}를 '{status_kr}' 상태로 인식해
+{x},{y} 위치에는 '{status_kr}' 상태를 지정해줘
+{x},{y} 좌표에 '{status_kr}' 처리가 필요해
+{x},{y} 구간의 교통 상태를 '{status_kr}'로 맞춰줘
+{x},{y} 구역을 '{status_kr}' 상태로 설정해줘
+{x},{y}는 '{status_kr}' 상태로 입력돼야 해
+'{status_kr}' 상황을 {x},{y} 도로에 반영해줘
+{x},{y} 지역의 교통 상태를 '{status_kr}'로 조정해줘
+{x},{y} 위치의 도로 상태는 '{status_kr}'이야
+{x},{y}의 교통 상태를 '{status_kr}'로 반영해줘
+{x},{y}는 '{status_kr}' 상황이므로 반영 요청해
+이제 {x},{y}를 '{status_kr}' 상태로 바꿔줘
+{x},{y}에 '{status_kr}' 태그를 부여해줘
+상태 변경 요청: {x},{y}를 '{status_kr}'으로 갱신해줘
+{x},{y}를 '{status_kr}' 상태로 인식하고 처리해줘
+{x},{y}를 기준으로 '{status_kr}' 상황을 적용해줘
+{x},{y} 좌표의 상태를 '{status_kr}'로 반영해줘
+{x},{y} 위치의 상황을 '{status_kr}'로 적용해줘
+{x},{y}에서 감지된 상태는 '{status_kr}'입니다
+현재 {x},{y} 좌표에는 '{status_kr}' 상태가 필요해
+{x},{y} 지역 상태를 '{status_kr}' 기준으로 설정하자
+{x},{y} 위치 정보는 '{status_kr}'이야. 시스템에 반영해
+'{status_kr}' 상태를 감지한 지점은 {x},{y}야
+지금 {x},{y} 위치는 '{status_kr}' 상태가 적절해 보여
+{x},{y}에 대한 교통 업데이트는 '{status_kr}'로 진행해줘
+{x},{y} 위치의 상태를 '{status_kr}'로 맞춰줘
+{x},{y}의 상태를 '{status_kr}'로 정정할 필요가 있어
+{x},{y}는 현재 '{status_kr}' 상태로 파악돼
+{x},{y} 상황은 '{status_kr}'로 판단돼. 반영해줘
+{x},{y} 지점에 '{status_kr}' 상태를 새로 지정해줘
+교통 센서 정보에 따르면 {x},{y}는 '{status_kr}' 상태야
+{x},{y}에 감지된 교통 상태를 '{status_kr}'로 처리해줘
+{x},{y}는 '{status_kr}'로 자동 감지됐어. 업데이트해줘
+새로운 상태 '{status_kr}'를 {x},{y} 좌표에 적용해줘
+{x},{y} 도로에 감지된 상황은 '{status_kr}'이야
+{x},{y} 좌표에 적용해야 할 상태는 '{status_kr}'이야
+{x},{y} 구간에 '{status_kr}' 상태가 확인됐어
+{x},{y}는 '{status_kr}'로 변경돼야 해
+{x},{y} 위치의 현 교통 상태는 '{status_kr}'로 보여
+{x},{y} 주변 도로는 '{status_kr}' 상황이야
+{x},{y} 지점에 '{status_kr}' 상태 적용이 필요해
+{x},{y}에 지정된 상태를 '{status_kr}'로 갱신해줘
+AI 분석 결과 {x},{y}는 '{status_kr}' 상태야
+센서 입력 결과 {x},{y}는 '{status_kr}' 상태로 판별돼
+{x},{y}의 상태가 '{status_kr}'로 분류됐어. 반영해줘
+운영자 요청으로 {x},{y} 교통 상태를 '{status_kr}'로 설정해줘
